@@ -1,0 +1,192 @@
+.WholeBody{
+    text-align: center;
+}
+
+.BigTitle{
+    margin: 10px;
+    text-align: center;
+    font-size: 70px;
+    width: 100%;
+    color: red;
+    font-style: italic;
+    border-style: double;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.NavigationBar{
+    margin-left: auto;
+    margin-right: auto;
+    color: red;
+    font-style: normal;
+    width: 100%;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+}
+
+.PageElement{
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    font-size: 14px;
+    width: 12%;
+    color: red;
+    font-style: normal;
+    overflow: auto;
+}
+
+.LoginBlock{
+    margin-top: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    font-size: 20px;
+    width: 20%;
+    color: red;
+    font-style: normal;
+}
+
+.LoginButton{
+    background-color: red;
+    color: black;
+    text-align: center;
+    text-decoration: black;
+    display: inline-block;
+    font-size: 20px;
+    width: auto;
+}
+
+.RegisterButton{
+    background-color: red;
+    color: black;
+    text-align: center;
+    text-decoration: black;
+    display: inline-block;
+    font-size: 20px;
+    width: auto;
+}
+
+.AddToCartButton{
+    background-color: red;
+    color: black;
+    text-align: center;
+    text-decoration: black;
+    display: inline-block;
+    font-size: 20px;
+    width: auto;
+}
+
+.input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+#loginEmail{
+    padding: 15px;
+    margin: 10px;
+    width: auto;
+}
+
+#loginPassword{
+    padding: 15px;
+    margin: 10px;
+    width: auto;
+}
+.RegisterBlock{
+    margin-top: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    font-size: 20px;
+    width: 20%;
+    color: red;
+    font-style: normal;
+}
+
+#registerEmail{
+    padding: 15px;
+    margin: 10px;
+    width: auto;
+}
+
+#registerPassword{
+    padding: 15px;
+    margin: 10px;
+    width: auto;
+}
+
+.BrowseBlock{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    color: red;
+    font-style: normal;
+    width: 100%;
+    text-align: center;
+}
+
+.BrowseButton{
+    background-color: red;
+    color: black;
+    text-align: center;
+    text-decoration: black;
+    display: inline-block;
+    font-size: 20px;
+    width: auto;
+}
+
+.ErrorMessage{
+    margin-top: 20px;
+    color: red;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    text-decoration-color: red;
+    text-decoration: underline;
+}
+
+.movies{
+    text-align: center;
+}
+
+tr:hover{
+    background-color: bisque;
+}
+
+#detailedMovie{
+    border-color: bisque;
+    border: 10px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    color: red;
+    font-style: normal;
+    width: 100%;
+    text-align: center;
+}
+
+#Quantity{
+    padding: 15px;
+    margin: 10px;
+    width: auto;
+}
+
+.AddToCartInfo{
+    border-color: bisque;
+    border: 10px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    color: red;
+    font-style: normal;
+    width: 100%;
+    text-align: center;
+}

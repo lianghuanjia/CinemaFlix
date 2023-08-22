@@ -1,0 +1,32 @@
+package edu.uci.ics.huanjial.service.movies.Models.Genre;
+
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
+import edu.uci.ics.huanjial.service.movies.General.GeneralResponseModel;
+import edu.uci.ics.huanjial.service.movies.Models.GenreModel;
+
+@JsonInclude(JsonInclude.Include.NON_NULL)
+@JsonPropertyOrder({"resultCode", "message", "genres"})
+public class GenreResponseModel extends GeneralResponseModel {
+    private GenreModel[] genres;
+
+    public GenreResponseModel() {
+    }
+
+    public GenreResponseModel(Integer caseInt, GenreModel[] genres) {
+        super(caseInt);
+        this.genres = genres;
+    }
+
+    public GenreResponseModel(Integer caseInt) {
+        super(caseInt);
+    }
+
+    public GenreModel[] getGenres() {
+        return genres;
+    }
+
+    public void setGenres(GenreModel[] genres) {
+        this.genres = genres;
+    }
+}

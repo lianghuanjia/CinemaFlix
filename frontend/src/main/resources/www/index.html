@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--Head has: 1. Title; 2. The navigation bar. -->
+    <meta charset="UTF-8">
+    <title>SamFlix</title>
+    <link rel="stylesheet" type="text/css" href="CSS/SamFlix.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/AdvancedSearch.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/QuickSearch.css"/>
+
+    <script src="JS/BodyArrangement.js" type="text/javascript" defer="defer"></script>
+    <script src="JS/General.js" type="text/javascript" defer="defer"></script>
+    <script src="JS/Helper.js" type="text/javascript" defer="defer"></script>
+    <script src="JS/Register.js" type="text/javascript" defer="defer"></script>
+    <script src="JS/LogIn.js" type="text/javascript" defer="defer"></script>
+    <script src="JS/QuickSearch.js" type="text/javascript" defer="defer"></script>
+    <script src="JS/AdvancedSearch.js" type="text/javascript" defer="defer"></script>
+    <script src="JS/SearchMovieByID.js" type="text/javascript" defer="defer"></script>
+    <script src="JS/Cart.js" type="text/javascript" defer="defer"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <div class = "BigTitle">
+        SamFlix & Chill
+    </div>
+
+    <div class = "NavigationBar">
+        <div class = "PageElement" onclick="getLoginContent()"> Login </div>
+        <div class = "PageElement" onclick="getRegisterContent()"> Register </div>
+        <div class = "PageElement" onclick="getBrowseContent()"> Browse </div>
+        <div class = "PageElement" onclick="getQuickSearchContent()"> Quick Search </div>
+        <div class = "PageElement" onclick="getAdvancedSearchContent()"> Advanced Search </div>
+        <div class = "PageElement" onclick="retrieveCart()"> Shopping Cart </div>
+        <div class = "PageElement" onclick="checkOut()"> Checkout Page </div>
+        <div class = "PageElement"> Order History </div>
+    </div>
+</head>
+<body class="WholeBody">
+
+
+    <div class = "ErrorMessage">
+
+    </div>
+
+
+    <div class = "main">
+
+    </div>
+
+    <div class = "AddToCartInfo">
+
+    </div>
+
+
+    <div class="movies"></div>
+
+
+
+</body>
+</html>

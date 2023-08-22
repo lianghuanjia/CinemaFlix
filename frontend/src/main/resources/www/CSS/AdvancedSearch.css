@@ -1,0 +1,86 @@
+.AdvancedSearchBlock{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: red;
+    font-style: normal;
+    width: 100%;
+    text-align: center;
+}
+
+.AdvancedTextInputBlock{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: black;
+    font-style: normal;
+    width: 100%;
+    text-align: center;
+}
+
+#titleTextBlock{
+    padding: 15px;
+    margin: 10px;
+    width: auto;
+}
+
+#genreTextBlock{
+    padding: 15px;
+    margin: 0px 10px 0px 0px;
+    width: auto;
+}
+
+#yearTextBlock{
+    padding: 15px;
+    margin: 10px;
+    width: auto;
+}
+
+#directorTextBlock{
+    padding: 15px;
+    margin: 0px 25px 0px 0px;
+    width: auto;
+}
+
+#hiddenTextBlock{
+    padding: 15px;
+    margin: 10px 18px 0px 0px;
+    width: auto;
+}
+
+
+
+.AdvancedSelectionBlock{
+    font-size: 0px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display:inline-block;
+    color: red;
+    font-style: normal;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.eachSelection{
+    font-size: 20px;
+    margin: auto;
+    display: inline-block;
+    color: black;
+    font-style: normal;
+    width: 20%;
+    text-align: center;
+}
+
+.searchButton{
+    background-color: red;
+    color: black;
+    text-align: center;
+    text-decoration: black;
+    display: inline-block;
+    font-size: 20px;
+    width: auto;
+}

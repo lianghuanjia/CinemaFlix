@@ -1,0 +1,26 @@
+.QuickSearchBlock{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    color: red;
+    font-style: normal;
+    width: 100%;
+    text-align: center;
+}
+
+#QuickSearchTitle{
+    padding: 15px;
+    margin: 10px;
+    width: auto;
+}
+
+.QuickSearchButton{
+    background-color: red;
+    color: black;
+    text-align: center;
+    text-decoration: black;
+    display: inline-block;
+    font-size: 20px;
+    width: auto;
+}

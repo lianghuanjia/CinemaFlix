@@ -1,0 +1,73 @@
+gatewayConfig:
+  scheme:
+  hostName:
+  port:
+  path:
+  requestDelay: 500
+
+loggerConfig:
+  outputDir: ./logs/
+  outputFile: gateway.log
+
+databaseConfig:
+  dbConnections: 3
+  dbUsername:
+  dbPassword:
+  dbHostname:
+  dbPort:
+  dbDriver: com.mysql.cj.jdbc.Driver
+  dbName:
+  dbSettings: ?autoReconnect=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=PST
+
+idmConfig:
+  scheme:
+  hostName:
+  port:
+  path:
+
+idmEndpoints:
+  EPUserRegister:
+  EPUserLogin:
+  EPSessionVerify:
+  EPUserPrivilegeVerify:
+
+moviesConfig:
+  scheme:
+  hostName:
+  port:
+  path:
+
+moviesEndpoints:
+  EPMovieSearch:
+  EPMovieGet:
+  EPMovieAdd:
+  EPMovieDelete:
+  EPGenreGet:
+  EPGenreAdd:
+  EPGenreMovie:
+  EPStarSearch:
+  EPStarGet:
+  EPStarAdd:
+  EPStarIn:
+  EPRating:
+
+billingConfig:
+  scheme:
+  hostName:
+  port:
+  path:
+
+billingEndpoints:
+  EPCartUpdate:
+  EPCartDelete:
+  EPCartRetrieve:
+  EPCartClear:
+  EPCcInsert:
+  EPCcUpdate:
+  EPCcDelete:
+  EPCcRetrieve:
+  EPCustomerInsert:
+  EPCustomerUpdate:
+  EPCustomerRetrieve:
+  EPOrderPlace:
+  EPOrderRetrieve:
