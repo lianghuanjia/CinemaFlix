@@ -4,8 +4,8 @@
 This is an application built in microservice architecture. It allows user to register/login, browse movie information, search movies, and buy movies. This application is deployed into two forms: web application and android application.
 
 ## Demo:
-Web Application: https://drive.google.com/file/d/1udIQk3nUCZwPMeBweZGLizK8MuPK5rK5/view?usp=sharing
-Android Application: https://drive.google.com/file/d/1wOmPEUTk5H2kPJ86ItMHVv9uZsaVO8oC/view?usp=sharing
++ Web Application: https://drive.google.com/file/d/1udIQk3nUCZwPMeBweZGLizK8MuPK5rK5/view?usp=sharing
++ Android Application: https://drive.google.com/file/d/1wOmPEUTk5H2kPJ86ItMHVv9uZsaVO8oC/view?usp=sharing
 
 # Technologies:
 + Programming language: Java
@@ -13,4 +13,8 @@ Android Application: https://drive.google.com/file/d/1wOmPEUTk5H2kPJ86ItMHVv9uZs
 + Backend: Java, JDBC, MySQL, REST API
 
 # Diagram:
+Application Architecture Diagram <br>
+![CinemaFlix Diagram](https://github.com/lianghuanjia/CinemaFlix/assets/36748450/ec912039-e6bb-40eb-ad05-67073e9b99af)
+
+
 
