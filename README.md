@@ -4,6 +4,21 @@
 This is an application built in microservice architecture. It allows user to register/login, browse movie information, search movies, and buy movies. This application is deployed into two forms: web application and android application.
 
 ## Demo:
+### Web Applicaiton
++ Register and Login:
+![5ae96b77-5593-4571-aba1-12809cb1cc76](https://github.com/lianghuanjia/CinemaFlix/assets/36748450/c8b86546-9ab4-457c-ac8d-6720fd2b622a)
+
++ Quick Search + Advanced Search + Add Desired Movies to Cart:
+![9a296da2-b2eb-4099-bb58-730624b560d3](https://github.com/lianghuanjia/CinemaFlix/assets/36748450/668ecb35-5429-4f5e-8bc8-eb555cc449fa)
++ Sort searching results:
+![6fc309dc-c889-4708-832c-ece01e07bb75](https://github.com/lianghuanjia/CinemaFlix/assets/36748450/0e84b69a-aa26-4c3b-ba8c-57bf25b3dc6a)
++ Checkout Shopping Cart with PayPal API:
+![5af54717-1308-4070-9891-7bde82f82b7e](https://github.com/lianghuanjia/CinemaFlix/assets/36748450/6f5565c2-8a05-4a02-b7ea-9b474dee2fdb)
+### Android Application:
++ Android login:
+![301293d5-2ab7-43d8-93f8-953c088ed4b3](https://github.com/lianghuanjia/CinemaFlix/assets/36748450/0c607fa7-779e-4fab-b803-1c575e21e7b2)
+
+### Full length demo videos:
 + Web Application: https://drive.google.com/file/d/1udIQk3nUCZwPMeBweZGLizK8MuPK5rK5/view?usp=sharing
 + Android Application: https://drive.google.com/file/d/1wOmPEUTk5H2kPJ86ItMHVv9uZsaVO8oC/view?usp=sharing
 
