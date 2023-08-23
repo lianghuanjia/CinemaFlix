@@ -4,11 +4,11 @@
 This is a full-stack application built in microservice architecture. It allows user to register/login, browse movie information, search movies with mutliple searching fields, and buy desired movies. This application is deployed into two platforms: web application and android application.
 
 ## Contents:
-### [Web Application Demo](https://github.com/lianghuanjia/CinemaFlix/tree/main#web-applicaiton) 
-### [Android Application Demo](https://github.com/lianghuanjia/CinemaFlix/tree/main#android-application)
-### [Technologies](https://github.com/lianghuanjia/CinemaFlix/tree/main#technologies)
-### [Architecture Diagram]()
-### [Microservices Details]()
+#### [Web Application Demo](https://github.com/lianghuanjia/CinemaFlix/tree/main#web-applicaiton) 
+#### [Android Application Demo](https://github.com/lianghuanjia/CinemaFlix/tree/main#android-application)
+#### [Technologies](https://github.com/lianghuanjia/CinemaFlix/tree/main#technologies)
+#### [Architecture Diagram](https://github.com/lianghuanjia/CinemaFlix/tree/main#architecture-diagram-1)
+#### [Microservices Details](https://github.com/lianghuanjia/CinemaFlix/tree/main#microservices-details-1)
 
 ## Demo:
 ### Web Applicaiton
