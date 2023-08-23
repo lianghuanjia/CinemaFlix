@@ -1,7 +1,7 @@
 # CinemaFlix
 
 ## Description:
-This is an application built in microservice architecture. It allows user to register/login, browse movie information, search movies, and buy movies. This application is deployed into two forms: web application and android application.
+This is a full-stack application built in microservice architecture. It allows user to register/login, browse movie information, search movies with mutliple searching fields, and buy desired movies. This application is deployed into two platforms: web application and android application.
 
 ## Demo:
 ### Web Applicaiton
