@@ -4,7 +4,11 @@
 This is a full-stack application built in microservice architecture. It allows user to register/login, browse movie information, search movies with mutliple searching fields, and buy desired movies. This application is deployed into two platforms: web application and android application.
 
 ## Contents:
-#### [Demo](https://github.com/lianghuanjia/CinemaFlix/tree/main#demo) 
+### [Web Application Demo](https://github.com/lianghuanjia/CinemaFlix/tree/main#web-applicaiton) 
+### [Android Application Demo](https://github.com/lianghuanjia/CinemaFlix/tree/main#android-application)
+### [Technologies](https://github.com/lianghuanjia/CinemaFlix/tree/main#technologies)
+### [Architecture Diagram]()
+### [Microservices Details]()
 
 ## Demo:
 ### Web Applicaiton
@@ -39,11 +43,11 @@ This is a full-stack application built in microservice architecture. It allows u
 + Frontend: JavaScript, CSS, HTML, Android Studio
 + Backend: Java, JDBC, MySQL, REST API
 
-## Diagram:
+## Architecture Diagram:
 Application Architecture Diagram <br>
 ![CinemaFlix Diagram](https://github.com/lianghuanjia/CinemaFlix/assets/36748450/ec912039-e6bb-40eb-ad05-67073e9b99af)
 
-## Services Details:
+## Microservices Details:
 ### API Gateway Service:
 A service that is an entry point for all users' requests. It will receive a user's request first, then validate the user using IDM Service. After validating user successfully, it will direct users' queries to corresponding microservices, get the responses back, and send the responses back to the corresponding users
 + Handle Client Requests: It receives client requests and put them into a queue. There are multiple workers that handle the requests from the queue with the help of multithreading.
