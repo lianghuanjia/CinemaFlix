@@ -6,7 +6,7 @@ This is a full-stack application built in microservice architecture. It allows u
 ## Contents:
 #### [Web Application Demo](https://github.com/lianghuanjia/CinemaFlix/tree/main#web-applicaiton) 
 #### [Android Application Demo](https://github.com/lianghuanjia/CinemaFlix/tree/main#android-application)
-#### [Technologies](https://github.com/lianghuanjia/CinemaFlix/tree/main#technologies)
+#### [Technologies](https://github.com/lianghuanjia/CinemaFlix/tree/main#technologies-1)
 #### [Architecture Diagram](https://github.com/lianghuanjia/CinemaFlix/tree/main#architecture-diagram-1)
 #### [Microservices Details](https://github.com/lianghuanjia/CinemaFlix/tree/main#microservices-details-1)
 
