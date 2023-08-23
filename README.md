@@ -16,10 +16,19 @@ This is an application built in microservice architecture. It allows user to reg
 ![5af54717-1308-4070-9891-7bde82f82b7e](https://github.com/lianghuanjia/CinemaFlix/assets/36748450/6f5565c2-8a05-4a02-b7ea-9b474dee2fdb)
 ### Android Application:
 + Android login:
-![301293d5-2ab7-43d8-93f8-953c088ed4b3](https://github.com/lianghuanjia/CinemaFlix/assets/36748450/0c607fa7-779e-4fab-b803-1c575e21e7b2)
+![f1d27f32-c325-42a0-bab0-160a5a6506ca](https://github.com/lianghuanjia/CinemaFlix/assets/36748450/a1ab6458-2ca4-441d-b28d-328284301cea)
+
++ Search movies:
+![ebdd7b9e-66de-4a39-ae4a-7ef64bc4881c](https://github.com/lianghuanjia/CinemaFlix/assets/36748450/a38d39f1-ac3f-4e47-8cfb-b99999b54334)
+![eba2e07c-2640-4d80-8c44-f613ec6bcd63](https://github.com/lianghuanjia/CinemaFlix/assets/36748450/36dbef5a-13cf-4393-b15a-9cbf52bc11e4)
+
++ Check a searched movie's detail page:
+![82bc2ee6-eaa8-454a-b6ec-dd030deab012](https://github.com/lianghuanjia/CinemaFlix/assets/36748450/43a1f46f-cc4c-48f4-84c4-cb82b8c6fe1e)
+
 
 ### Full length demo videos:
-+ Web Application: https://drive.google.com/file/d/1udIQk3nUCZwPMeBweZGLizK8MuPK5rK5/view?usp=sharing
++ Web Application: https://drive.google.com/file/d/11VJx1mIFXr2ZLzryWFDD1j3wZNEAG4C4/view?usp=sharing
++ Web Application with All Microservices Setting Up: https://drive.google.com/file/d/1udIQk3nUCZwPMeBweZGLizK8MuPK5rK5/view?usp=sharing
 + Android Application: https://drive.google.com/file/d/1wOmPEUTk5H2kPJ86ItMHVv9uZsaVO8oC/view?usp=sharing
 
 ## Technologies:
